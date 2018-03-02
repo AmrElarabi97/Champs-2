@@ -1,6 +1,6 @@
 # Champs-2 :muscle: :muscle: :muscle:
 
-Project title: Github - Sprint 0
+Project title: Sprint 1
 
 <h1 style=font-style:italic;background-color: lightblue;> 
 Authors
